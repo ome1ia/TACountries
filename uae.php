@@ -39,7 +39,7 @@
                                 <i class="icon-controller-play"></i>
                             </div>
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=yzuhDcKrBHI?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/yzuhDcKrBHI?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                             </div>
                         </div>
                         <figcaption class="figure-caption text-right">ОАЭ. Интересные факты об Эмиратах<br>© CoolTimes 2017</figcaption>
@@ -56,7 +56,7 @@
                                 <i class="icon-controller-play"></i>
                             </div>
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" data-src="https://vimeo.com/163940669?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/163940669?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                             </div>
                         </div>
                         <figcaption class="figure-caption text-right">UAE 2015<br>© Sasha 2016</figcaption>
@@ -299,7 +299,7 @@
                                 <i class="icon-controller-play"></i>
                             </div>
                             <div class="embed-responsive embed-responsive-21by9">
-                                <iframe class="embed-responsive-item" data-src="https://vimeo.com/203311480?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/203311480?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                             </div>
                         </div>
                         <figcaption class="figure-caption text-right">Desert in Dubai<br>© Anton Elchaninov 2017</figcaption>

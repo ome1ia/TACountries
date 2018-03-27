@@ -38,7 +38,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/248465461?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/248465461?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">POLAND: Winter Wonderland<br>© Nathaniel Connella 2017</figcaption>
@@ -53,7 +53,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=QAsT2d7IP3c?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/QAsT2d7IP3c?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Польша. Интересные факты о Польше<br>© CoolTimes 2017</figcaption>
@@ -400,7 +400,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=d3T4YLdJvk0?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/d3T4YLdJvk0?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">ПОЛЬСКИЕ ДОРОГИ 2017. Вся правда о Польских дорогах.<br>© Aspiration Plus 2017</figcaption>

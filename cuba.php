@@ -38,7 +38,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/194659373?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/194659373?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">CUBA<br>© Benjamin Aubray 2016</figcaption>
@@ -53,7 +53,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/136495940?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/136495940?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Куба-Гавана 2015<br>© PavlovaLena 2015</figcaption>
@@ -305,7 +305,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/10488487?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/10488487?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Куба-2010<br>© Katherine Blagova 2010</figcaption>

@@ -41,7 +41,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/200496838?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/200496838?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Minsk... city of Sun.<br>© zweizwei |timelapse&hyperlapse| 2017</figcaption>

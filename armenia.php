@@ -37,7 +37,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-21by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/223275622?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/223275622?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Кавказ (Армения)<br>© FamilyFrames 2017</figcaption>

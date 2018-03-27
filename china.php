@@ -38,7 +38,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/85543593?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/85543593?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">China, Beijing Time lapse /  延时摄影 "北京“ / Китай, Пекин<br>© Велитченко Юрий 2014</figcaption>
@@ -53,7 +53,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/73523239?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/73523239?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Документальный фильм &quot;За чайным горизонтом&quot; 2013. ONEDAR FILMS http://kitchai.ru/<br>© ONEDAR FILMS 2013</figcaption>
