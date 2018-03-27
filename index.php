@@ -98,10 +98,10 @@
 
         <h5>Страны</h5>
         <ul style="column-count: 3;">
-            <li>Австрия</li>
+            <li><a href="/guide/austria">Австрия</a></li>
             <li>Албания</li>
             <li>Андорра</li>
-            <li>Белоруссия</li>
+            <li><a href="/guide/belarus">Белоруссия</a></li>
             <li>Бельгия</li>
             <li>Болгария</li>
             <li>Босния и Герцеговина</li>
@@ -203,7 +203,7 @@
             <li>Канада</li>
             <li>Колумбия</li>
             <li>Коста-Рика</li>
-            <li>Куба</li>
+            <li><a href="/guide/cuba">Куба</a></li>
             <li>Кюрасао</li>
             <li>Мексика</li>
             <li>Никарагуа</li>
@@ -214,7 +214,7 @@
             <li>Тринидад и Тобаго</li>
             <li>Чили</li>
             <li>Эквадор</li>
-            <li>Ямайка</li>
+            <li><a href="/guide/jamaica">Ямайка</a></li>
         </ul>
     </div>
 </section>
