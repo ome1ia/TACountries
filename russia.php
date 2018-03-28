@@ -58,7 +58,7 @@
                                     <i class="icon-controller-play"></i>
                                 </div>
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/9RfuxVZdtjY?autoplay=1" webkitallowfullscreen
+                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/9RfuxVZdtjY?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen
                                         mozallowfullscreen allowfullscreen></iframe>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                     <i class="icon-controller-play"></i>
                                 </div>
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/w0eeb7ZDsqo?autoplay=1" webkitallowfullscreen
+                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/w0eeb7ZDsqo?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen
                                         mozallowfullscreen allowfullscreen></iframe>
                                 </div>
                             </div>
@@ -408,7 +408,7 @@
                                     <i class="icon-controller-play"></i>
                                 </div>
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/P2depdsQQ_k?autoplay=1" webkitallowfullscreen
+                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/P2depdsQQ_k?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen
                                         mozallowfullscreen allowfullscreen></iframe>
                                 </div>
                             </div>
@@ -532,7 +532,7 @@
                                     <i class="icon-controller-play"></i>
                                 </div>
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/-qu6w1Q5zEY?autoplay=1" webkitallowfullscreen
+                                    <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/-qu6w1Q5zEY?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen
                                         mozallowfullscreen allowfullscreen></iframe>
                                 </div>
                             </div>

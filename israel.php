@@ -7,10 +7,10 @@
                     <div class="lead">
                         <b>Столица</b>: Иерусалим<br>
                         <b>Официальный язык</b>: иврит, арабский<br>
-                        <b>Валюта</b>: Новый израильский шекель (NIS)<br>
-                        <b>Территория</b>: 20,7 тыс. кв. км.<br>
-                        <b>Население</b>: на начало 2016 г. составило 8,522 млн. жителей<br>
-                        <b>Часовой пояс</b>: Часовой пояс (GMT+2), переход на зимнее время состоялся 30 октября 2016, в 02:00 по местному летнему времени
+                        <b>Валюта</b>: NIS - новый израильский шекель<br>
+                        <b>Территория</b>: 20 700 км²<br>
+                        <b>Население</b>: 8.5 млн человек<br>
+                        <b>Часовой пояс</b>: GMT+3. Разница с Астаной -3 часа
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-8 offset-2">
                 <blockquote class="blockquote">
-                  <p class="text-justify">Страну мою на карте обнаружив, на внешние размеры не смотри: по пло&shy;щади ничтожная снаружи она зато огромна изнутри.</p>
+                  <p class="text-justify">Страну мою на карте обнаружив, на внешние размеры не смотри: по пло&shy;щади ничтожная снаружи, она зато огромна изнутри.</p>
                   <footer class="blockquote-footer text-right">И. Губерман</footer>
                 </blockquote>
 
@@ -35,7 +35,7 @@
 
                 <p>Климат cубтропический, средиземноморскогo типа, относительно влажный на севере, полупустынный и пустынный на юге.</p>
 
-                 <hr>
+                <hr>
 
                 <figure class="figure d-block">
                     <div class="video-cover box-shadow">
@@ -44,10 +44,10 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=rwr0OqizH_o?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/rwr0OqizH_o?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
-                    <figcaption class="figure-caption text-right">Израиль. Интересные факты об Израиле</figcaption>
+                    <figcaption class="figure-caption text-right">Израиль. Интересные факты об Израиле<br>© CoolTimes 2017</figcaption>
                 </figure>
             </div>
         </div>
@@ -220,7 +220,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=eC2-FHA4GV4&t=12s?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/eC2-FHA4GV4&t=12s?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Видеоблог: Аэропорт Бен Гурион: экскурсия и факты</figcaption>

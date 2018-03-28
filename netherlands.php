@@ -52,7 +52,7 @@
                                 <i class="icon-controller-play"></i>
                             </div>
                             <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/QnOSOn1c2XM?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/QnOSOn1c2XM?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                             </div>
                         </div>
                         <figcaption class="figure-caption text-right">Голландия и Амстердам. Лучшие путешествия. Европа с Руди Макса<br>© Лучшие маршруты мира 2017</figcaption>
@@ -95,7 +95,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/kPWJj69A7UM?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/kPWJj69A7UM?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">View from Above- Netherlands<br>© View from Above 2016</figcaption>
