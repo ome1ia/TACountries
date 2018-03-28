@@ -432,7 +432,11 @@
 
                 </div>
             </div>
+        </div>
+    </section>
 
+    <section id="health" class="bg-white">
+        <div class="container">
             <h2>Здравоохранение</h2>
             <div class="row justify-content-between">
                 <div class="col-12 col-md-8 col-lg-7">
@@ -476,7 +480,18 @@
                      
                     <h5>Мобильная связь и интернет</h5>
                     <p>В Египте три крупных оператора мобильной связи: "Оранж" (Orange), "Этисалат" (Etisalat) и  “Водафон” (Vodafone). Эти компании также предоставляют интернет-услуги, GPS навигации и пр. Сим-карту любого оператора можно приобрести в крупных городах повсеместно, при себе необходимо иметь загранпаспорт. В большинстве египетских городов можно обзавестись симкой любого из этих операторов.</p>
+                    
+                    <p>
+                       Операторы мобильной связи:
+                        <ul>
+                            <li>Orange - <a href="https://www.orange.eg/en/" target="_blank">перейти на сайт</a></li>
+                            <li>Etisalat - <a href="http://www.etisalat.eg/etisalat/portal/home_en" target="_blank">перейти на сайт</a></li>
+                            <li>Vodafone - <a href="http://www.vodafone.com.eg/" target="_blank">перейти на сайт</a></li>
+                        </ul>
+                    </p>
+
                     <p>В большинстве отелей и кафе есть платные или бесплатные wi-fi точки.</p>
+
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="card">
