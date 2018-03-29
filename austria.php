@@ -8,8 +8,8 @@
                         <b>Столица</b>: Вена<br>
                         <b>Официальный язык</b>: немецкий, словенский, венгерский<br>
                         <b>Валюта</b>: EUR - евро<br>
-                        <b>Территория</b>: 83 879 кв. км.<br>
-                        <b>Население</b>: 8 747 000 миллионов человек<br>
+                        <b>Территория</b>: 83 879 км²<br>
+                        <b>Население</b>: 8.7 млн человек<br>
                         <b>Часовой пояс</b>: GMT +1. Разница во времени с Астаной 5 часов
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/168446268?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/168446268?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Explore Austria<br>© Valery Gusev 2016</figcaption>
@@ -53,7 +53,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=FT1ZJx7V4Rk?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/FT1ZJx7V4Rk?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Мастер путешествий -  Австрия: Вена и Дунай.<br>© Sergey ST 2013</figcaption>

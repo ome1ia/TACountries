@@ -53,7 +53,7 @@
             <li>Камбоджа</li>
             <li>Катар</li>
             <li>Киргизия</li>
-            <li>Китай</li>
+            <li><a href="/guide/china">Китай</a></li>
             <li>Лаос</li>
             <li>Ливан</li>
             <li>Малайзия</li>
@@ -61,19 +61,19 @@
             <li>Монголия</li>
             <li>Мьянма</li>
             <li>Непал</li>
-            <li>Объединенные Арабские Эмираты</li>
+            <li><a href="/guide/uae">Объединенные Арабские Эмираты</a></li>
             <li>Оман</li>
             <li>Сингапур</li>
             <li>Сирия</li>
             <li>Таджикистан</li>
             <li>Таиланд</li>
             <li>Туркменистан</li>
-            <li>Турция</li>
+            <li><a href="/guide/turkey">Турция</a></li>
             <li>Узбекистан</li>
             <li>Филиппины</li>
             <li>Шри-Ланка</li>
             <li>Южная Корея</li>
-            <li>Япония</li>
+            <li><a href="/guide/japan">Япония</a></li>
         </ul>
     </div>
 </section>
@@ -98,10 +98,10 @@
 
         <h5>Страны</h5>
         <ul style="column-count: 3;">
-            <li>Австрия</li>
+            <li><a href="/guide/austria">Австрия</a></li>
             <li>Албания</li>
             <li>Андорра</li>
-            <li>Белоруссия</li>
+            <li><a href="/guide/belarus">Белоруссия</a></li>
             <li>Бельгия</li>
             <li>Болгария</li>
             <li>Босния и Герцеговина</li>
@@ -124,11 +124,11 @@
             <li>Мальта</li>
             <li>Молдавия</li>
             <li>Монако</li>
-            <li>Нидерланды</li>
+            <li><a href="/guide/netherlands">Нидерланды</a></li>
             <li>Норвегия</li>
-            <li>Польша</li>
+            <li><a href="/guide/poland">Польша</a></li>
             <li>Португалия</li>
-            <li>Россия</li>
+            <li><a href="/guide/russia">Россия</a></li>
             <li>Румыния</li>
             <li>Сан-Марино</li>
             <li>Северный Кипр</li>
@@ -137,10 +137,10 @@
             <li>Словения</li>
             <li>Украина</li>
             <li>Финляндия</li>
-            <li>Франция</li>
+            <li><a href="/guide/france">Франция</a></li>
             <li>Хорватия</li>
             <li>Черногория</li>
-            <li>Чехия</li>
+            <li><a href="/guide/czech_republic">Чехия</a></li>
             <li>Швейцария</li>
             <li>Швеция</li>
             <li>Эстония</li>
@@ -203,7 +203,7 @@
             <li>Канада</li>
             <li>Колумбия</li>
             <li>Коста-Рика</li>
-            <li>Куба</li>
+            <li><a href="/guide/cuba">Куба</a></li>
             <li>Кюрасао</li>
             <li>Мексика</li>
             <li>Никарагуа</li>
@@ -214,7 +214,7 @@
             <li>Тринидад и Тобаго</li>
             <li>Чили</li>
             <li>Эквадор</li>
-            <li>Ямайка</li>
+            <li><a href="/guide/jamaica">Ямайка</a></li>
         </ul>
     </div>
 </section>

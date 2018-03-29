@@ -7,9 +7,9 @@
                     <div class="lead">
                         <b>Столица</b>: Кингстон<br>
                         <b>Официальный язык</b>: английский<br>
-                        <b>Валюта</b>: JMD - ямайский доллар (Свободное хождение имеет доллар США)<br>
-                        <b>Территория</b>: 10 991 кв. км.<br>
-                        <b>Население</b>: 2 881 000 человек<br>
+                        <b>Валюта</b>: JMD - ямайский доллар (свободное хождение имеет доллар США)<br>
+                        <b>Территория</b>: 10 991 км²<br>
+                        <b>Население</b>: 2.881 млн человек<br>
                         <b>Часовой пояс</b>: UTC -5. Разница с Астаной -11 часов
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=k4MWgNsxd_c?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/k4MWgNsxd_c?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Jamaica in 4K<br>© Around The World 4K 2015</figcaption>
@@ -52,7 +52,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/38960314?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/38960314?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Jamaica<br>© nsmb.com 2012</figcaption>
@@ -67,7 +67,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=MtH2a2WMtNg?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/MtH2a2WMtNg?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Ямайка, Тринидад и Тобаго. Золотой глобус - 88<br>© istorionet 2011</figcaption>
@@ -312,7 +312,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/watch?v=w8ORZRDIjf8?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/w8ORZRDIjf8?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Chuku Toyota Supra Jamaica<br>© Tavares Donaldson 2016</figcaption>

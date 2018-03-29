@@ -21,7 +21,7 @@
             <i class="icon-controller-play"></i>
         </div>
         <div class="embed-responsive embed-responsive-<?=$resolution?>">
-            <iframe class="embed-responsive-item" data-src="<?=$url?>?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" data-src="<?=$src?>" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
     </div>
     <figcaption class="figure-caption text-right"><?=$title?><br>© <?=$author?> <?=$date?></figcaption>

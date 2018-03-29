@@ -7,9 +7,9 @@
                     <div class="lead">
                         <b>Столица</b>: Минск<br>
                         <b>Официальный язык</b>: белорусский, русский<br>
-                        <b>Валюта</b>: белорусский рубль<br>
+                        <b>Валюта</b>: BYN - белорусский рубль<br>
                         <b>Территория</b>: 207 600 км²<br>
-                        <b>Население</b>: 9 500 000 человек<br>
+                        <b>Население</b>: 9.5 млн человек<br>
                         <b>Часовой пояс</b>: UTC+3 Разница во времени между Республикой Беларусь и Астаной -3 часа
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/200496838?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/200496838?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Minsk... city of Sun.<br>© zweizwei |timelapse&hyperlapse| 2017</figcaption>

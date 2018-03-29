@@ -8,8 +8,8 @@
                         <b>Столица</b>: Гавана<br>
                         <b>Официальный язык</b>: испанский<br>
                         <b>Валюта</b>: CUP - национальное песо и CUC - конвертируемое песо<br>
-                        <b>Территория</b>: 110 860 кв. км.<br>
-                        <b>Население</b>: 11 480 000 человек<br>
+                        <b>Территория</b>: 110 860 км²<br>
+                        <b>Население</b>: 11.5 млн человек<br>
                         <b>Часовой пояс</b>: UTC -4. Разница с Астаной -10 часов
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/194659373?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/194659373?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">CUBA<br>© Benjamin Aubray 2016</figcaption>
@@ -53,7 +53,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/136495940?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/136495940?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Куба-Гавана 2015<br>© PavlovaLena 2015</figcaption>
@@ -305,7 +305,7 @@
                             <i class="icon-controller-play"></i>
                         </div>
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" data-src="https://vimeo.com/10488487?&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/10488487?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
                     <figcaption class="figure-caption text-right">Куба-2010<br>© Katherine Blagova 2010</figcaption>
