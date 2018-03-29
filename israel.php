@@ -24,7 +24,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-8 offset-2">
+            <div class="col-lg-8 offset-lg-2">
                 <blockquote class="blockquote">
                   <p class="text-justify">Страну мою на карте обнаружив, на внешние размеры не смотри: по пло&shy;щади ничтожная снаружи, она зато огромна изнутри.</p>
                   <footer class="blockquote-footer text-right">И. Губерман</footer>

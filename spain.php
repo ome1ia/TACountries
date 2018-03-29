@@ -24,7 +24,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-8 offset-2">
+            <div class="col-lg-8 offset-lg-2">
                 <p>Корни богатого исторического и культурного наследия уходят далеко в древность. Испания - это не только вино, коррида, красивые девушки и превосходная кухня. Это кладезь истории, способной окунуть в века любого, даже самого взыскательного искателя острых ощущений.</p>
 
                 <!--Карта-->
@@ -84,7 +84,7 @@
             <li class="nav-item"><a class="nav-link" href="#visa">Въезд в страну</a></li>
             <li class="nav-item"><a class="nav-link" href="#custom">Таможня</a></li>
             <li class="nav-item"><a class="nav-link" href="#transport">Транспорт</a></li>
-            <li class="nav-item"><a class="nav-link" href="#auto">Аренда автомобиля</a></li>
+            <li class="nav-item"><a class="nav-link" href="#auto">Авто</a></li>
             <li class="nav-item"><a class="nav-link" href="#health">Здравоохранение</a></li>
             <li class="nav-item"><a class="nav-link" href="#communication">Связь</a></li>
             <li class="nav-item"><a class="nav-link" href="#money">Деньги</a></li>

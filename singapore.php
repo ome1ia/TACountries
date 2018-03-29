@@ -24,7 +24,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-8 offset-2">
+            <div class="col-lg-8 offset-lg-2">
                 <p>Город-государство, расположенный на острове в Юго-Восточной Азии, отделённый от южной оконечности Малаккского полуострова узким Джохорским проливом. Граничит с султанатом Джохор, входящим в состав Малайзии и с островами Риау в составе Индонезии. Тропический, среднедневная температура может колебаться в пределах от +24 до +31 °С, влажность воздуха — 84,3 %, среднегодовой объем осадков 2400 мм.</p>
 
                 <!--Карта-->
@@ -294,9 +294,6 @@
         <p>В связи с высокой стоимостью медицинских услуг в Сингапуре, перед поездкой в Сингапур настоятельно рекомендуется приобретать медицинскую страховку.</p>
 
         <a href="http://medical.account.travel" class="btn btn-outline-success">Оформить туристическую страховку</a>
-
-        <!--<script src="//f.sravni.ru/f/apps/build/widgets/sravni-widgets.js"></script>
-        <sravni-micro-widget type="mantravel" logo="false" partner="tonkosti.ru" theme="tonkosti.ru" data-countries="Азербайджан"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet"><style>sravni-micro-widget{text-align: center;display: block;position:relative}a.sravni-dl{font: 300 14px 'Open Sans', sans-serif; max-width:100%px; display:inline-block; color: #a7a7a7; text-decoration: none;border-bottom:1px solid #a7a7a7;}</style></sravni-micro-widget>-->
     </div>
 </section>
 

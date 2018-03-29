@@ -22,7 +22,7 @@
         <h2>Азия</h2>
         <p>Самая большая часть света, омываемая тремя океанами и вмещающая 53 государства, Азия на карте мира — словно пестрый ковер культур, языков, народностей. Пожалуй, нет на Земле региона, более разнообразного и богатого на всевозможные диковинки.</p>
 
-        <figure class="figure d-block col-8 offset-2">
+        <figure class="figure d-block col-lg-8 offset-lg-2">
             <div class="video-cover box-shadow">
                 <img alt="A Time-lapse journey through Southeast Asia" src="https://i.vimeocdn.com/video/666294286_1280x720.webp" class="bg-image"/>
                 <div class="video-play-icon">
@@ -83,7 +83,7 @@
         <h2>Европа</h2>
         <p>Европа — синоним цивилизации, просвещённости, культуры, науки и искусства. Это восточная часть материка Евразия, омываемая водами Атлантики и Северного Ледовитого океана. На 10,5 миллионах кв. км расположились 43 государства, в которых проживают в общей сложности 830 миллионов человек — почти 1/8 населения земного шара.</p>
 
-        <figure class="figure d-block col-8 offset-2">
+        <figure class="figure d-block col-lg-8 offset-lg-2">
             <div class="video-cover box-shadow">
                 <img alt="Magical Europe Volume Two" src="https://i.vimeocdn.com/video/637103937_1280x720.webp" class="bg-image"/>
                 <div class="video-play-icon">
@@ -224,7 +224,7 @@
         <h2>Африка</h2>
         <p>Африка - колыбель человечества. И пусть с тех пор минул не один миллион лет, лоно Африки сегодня столь же жаркое, не менее дикое и лишь на толику более изученное.</p>
 
-        <figure class="figure d-block col-8 offset-2">
+        <figure class="figure d-block col-lg-8 offset-lg-2">
             <div class="video-cover box-shadow">
                 <img alt="Heart of Africa" src="https://i.vimeocdn.com/video/462402180_1280x720.webp" class="bg-image"/>
                 <div class="video-play-icon">
