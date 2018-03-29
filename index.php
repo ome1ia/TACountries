@@ -40,11 +40,11 @@
             <li>Абхазия</li>
             <li><a href="/guide/azerbaijan">Азербайджан</a></li>
             <li><a href="/guide/armenia">Армения</a></li>
-            <li>Бахрейн</li>
+            <li><a href="/guide/bahrain">Бахрейн</a></li>
             <li>Бутан</li>
             <li>Вьетнам</li>
-            <li>Грузия</li>
-            <li>Израиль</li>
+            <li><a href="/guide/georgia">Грузия</a></li>
+            <li><a href="/guide/israel">Израиль</a></li>
             <li>Индия</li>
             <li>Индонезия</li>
             <li>Иордания</li>
@@ -63,7 +63,7 @@
             <li>Непал</li>
             <li><a href="/guide/uae">Объединенные Арабские Эмираты</a></li>
             <li>Оман</li>
-            <li>Сингапур</li>
+            <li><a href="/guide/singapore">Сингапур</a></li>
             <li>Сирия</li>
             <li>Таджикистан</li>
             <li>Таиланд</li>
@@ -100,7 +100,7 @@
         <ul style="column-count: 3;">
             <li><a href="/guide/austria">Австрия</a></li>
             <li>Албания</li>
-            <li>Андорра</li>
+            <li><a href="/guide/andorra">Андорра</a></li>
             <li><a href="/guide/belarus">Белоруссия</a></li>
             <li>Бельгия</li>
             <li>Болгария</li>
@@ -113,9 +113,9 @@
             <li>Дания</li>
             <li>Ирландия</li>
             <li>Исландия</li>
-            <li>Испания</li>
+            <li><a href="/guide/spain">Испания</a></li>
             <li>Италия</li>
-            <li>Кипр</li>
+            <li><a href="/guide/cyprus">Кипр</a></li>
             <li>Латвия</li>
             <li>Литва</li>
             <li>Лихтенштейн</li>
@@ -136,10 +136,10 @@
             <li>Словакия</li>
             <li>Словения</li>
             <li>Украина</li>
-            <li>Финляндия</li>
+            <li><a href="/guide/finland">Финляндия</a></li>
             <li><a href="/guide/france">Франция</a></li>
             <li>Хорватия</li>
-            <li>Черногория</li>
+            <li><a href="/guide/montenegro">Черногория</a></li>
             <li><a href="/guide/czech_republic">Чехия</a></li>
             <li>Швейцария</li>
             <li>Швеция</li>
@@ -202,7 +202,7 @@
             <li>Доминиканская Республика</li>
             <li>Канада</li>
             <li>Колумбия</li>
-            <li>Коста-Рика</li>
+            <li><a href="/guide/costa-rica">Коста-Рика</a></li>
             <li><a href="/guide/cuba">Куба</a></li>
             <li>Кюрасао</li>
             <li>Мексика</li>
@@ -242,7 +242,7 @@
             <li>Алжир</li>
             <li>Ботсвана</li>
             <li>Гамбия</li>
-            <li>Египет</li>
+            <li><a href="/guide/egypt">Египет</a></li>
             <li>Замбия</li>
             <li>Зимбабве</li>
             <li>Кабо-Верде</li>
