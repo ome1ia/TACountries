@@ -24,7 +24,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-8 offset-2">
+            <div class="col-lg-8 offset-lg-2">
                 <p>Одно из карликовых государств Европы, не имеющее выхода к морю княжество, расположенное в восточных Пиренеях между Францией и Испанией.</p>
 
                 <!--Карта-->
@@ -44,7 +44,7 @@
                             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/26f_Mz-FtVk?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
-                    <figcaption class="figure-caption text-right">Андорра. Карликовые государства Европы</figcaption>
+                    <figcaption class="figure-caption text-right">Андорра. Карликовые государства Европы<br>© CoolTimes 2018</figcaption>
                 </figure>
 
                 <hr>
@@ -59,7 +59,7 @@
                             <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/153699774?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
-                    <figcaption class="figure-caption text-right">Горнолыжный курорт, Андорра</figcaption>
+                    <figcaption class="figure-caption text-right">Горнолыжный курорт, Андорра<br>© Igor Kozlov 2016</figcaption>
                 </figure>
 
             </div>
@@ -129,8 +129,8 @@
                     </div>
                 </div>
 
+            </div>
         </div>
-    </div>
 </section>
 
 <section id="visa" class="bg-white">
@@ -141,7 +141,7 @@
             <div class="col">
                 <p>Андорра не имеет своего аэропорта, поэтому гражданам Казахстана, путешествующим на самолете, необходимо сначала попасть в Испанию или Францию, из которых они беспрепятственно могут отправиться в Андорру, а для въезда в эти страны нужна шенгенская виза, которая в дальнейшем будет действовать и в самой Андорре. Именно это явилось основанием, что в 2015 году виза в Андорру оформляется в посольствах Франции и Испании, пакет документов ничем не отличается.</p>
                 <p><i class="icon icon-warning"></i> Данная информация является ознакомительной, и не является руководством к оформлению визы.</p>
-            </div>     
+            </div>
         </div>
     </div>
 </section>
@@ -208,7 +208,7 @@
                             <iframe class="embed-responsive-item" data-src="https://www.youtube.com/embed/Eh7xyB9o_50?autoplay=1&rel=0&showinfo=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                         </div>
                     </div>
-                    <figcaption class="figure-caption text-right">Из Барселоны в Андорру на автобусе</figcaption>
+                    <figcaption class="figure-caption text-right">Из Барселоны в Андорру на автобусе<br>© J. B. Bazuev Outdoor 2014</figcaption>
                 </figure>
             </div>
 
@@ -223,6 +223,9 @@
                             Оптимальные стыковки на перелеты Астана/Алматы-Барселона и Астана/Алматы-Тулуза представлены через: Москву (Аэрофлот), Стамбул (Turkish Airlines), Минск (Belavia), Франкфурт (Lufthansa), Киев (МАУ), Лондон (British Airways).
                         </li>
                     </ul>
+                    <div class="card-footer p-3">
+                        <a href="http://avia.account.travel" class="btn btn-block btn-outline-success">Подобрать рейс с пересадкой</a>
+                    </div>
                 </div>
             </div>
         </div>

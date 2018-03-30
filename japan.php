@@ -24,7 +24,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-8 offset-2">
+            <div class="col-lg-8 offset-lg-2">
                 <p>Японские острова находятся в нескольких климатических поясах от умеренного на севере до субтропического — на южных. От снежного Хоккайдо до знойного острова Окинава. Благодаря развитой инфраструктуре, буквально за несколько часов можно попасть в любую точку страны. И не важно, что вам больше по душе, заснеженные горы или теплый пляж, шумный мегаполис или горячие источники</p>
 
                 <!--Карта-->
@@ -503,9 +503,6 @@
         </p>
 
         <a href="http://medical.account.travel" class="btn btn-outline-success">Оформить туристическую страховку</a>
-
-        <!--<script src="//f.sravni.ru/f/apps/build/widgets/sravni-widgets.js"></script>
-        <sravni-micro-widget type="mantravel" logo="false" partner="tonkosti.ru" theme="tonkosti.ru" data-countries="Азербайджан"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet"><style>sravni-micro-widget{text-align: center;display: block;position:relative}a.sravni-dl{font: 300 14px 'Open Sans', sans-serif; max-width:100%px; display:inline-block; color: #a7a7a7; text-decoration: none;border-bottom:1px solid #a7a7a7;}</style></sravni-micro-widget>-->
     </div>
 </section>
 
