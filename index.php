@@ -22,18 +22,20 @@
         <h2>Азия</h2>
         <p>Самая большая часть света, омываемая тремя океанами и вмещающая 53 государства, Азия на карте мира — словно пестрый ковер культур, языков, народностей. Пожалуй, нет на Земле региона, более разнообразного и богатого на всевозможные диковинки.</p>
 
-        <figure class="figure d-block col-lg-8 offset-lg-2">
-            <div class="video-cover box-shadow">
-                <img alt="A Time-lapse journey through Southeast Asia" src="https://i.vimeocdn.com/video/666294286_1280x720.webp" class="bg-image"/>
-                <div class="video-play-icon">
-                    <i class="icon-controller-play"></i>
+        <div class="row">
+            <figure class="figure d-block col-lg-8 offset-lg-2">
+                <div class="video-cover box-shadow">
+                    <img alt="A Time-lapse journey through Southeast Asia" src="https://i.vimeocdn.com/video/666294286_1280x720.jpg" class="bg-image"/>
+                    <div class="video-play-icon">
+                        <i class="icon-controller-play"></i>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/242276430?transparent=0&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
                 </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/242276430?transparent=0&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
-            </div>
-            <figcaption class="figure-caption text-right">A Time-lapse journey through Southeast Asia<br>© Alberto Expósito 2017</figcaption>
-        </figure>
+                <figcaption class="figure-caption text-right">A Time-lapse journey through Southeast Asia<br>© Alberto Expósito 2017</figcaption>
+            </figure>
+        </div>
 
         <h5>Страны</h5>
         <ul style="column-count: 3;">
@@ -83,25 +85,27 @@
         <h2>Европа</h2>
         <p>Европа — синоним цивилизации, просвещённости, культуры, науки и искусства. Это восточная часть материка Евразия, омываемая водами Атлантики и Северного Ледовитого океана. На 10,5 миллионах кв. км расположились 43 государства, в которых проживают в общей сложности 830 миллионов человек — почти 1/8 населения земного шара.</p>
 
-        <figure class="figure d-block col-lg-8 offset-lg-2">
-            <div class="video-cover box-shadow">
-                <img alt="Magical Europe Volume Two" src="https://i.vimeocdn.com/video/637103937_1280x720.webp" class="bg-image"/>
-                <div class="video-play-icon">
-                    <i class="icon-controller-play"></i>
+        <div class="row">
+            <figure class="figure d-block col-lg-8 offset-lg-2">
+                <div class="video-cover box-shadow">
+                    <img alt="Magical Europe Volume Two" src="https://i.vimeocdn.com/video/637103937_1280x720.jpg" class="bg-image"/>
+                    <div class="video-play-icon">
+                        <i class="icon-controller-play"></i>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/219367805?autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
                 </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/219367805?transparent=0&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
-            </div>
-            <figcaption class="figure-caption text-right">Magical Europe Volume Two<br>© StanChang 2017</figcaption>
-        </figure>
+                <figcaption class="figure-caption text-right">Magical Europe Volume Two<br>© StanChang 2017</figcaption>
+            </figure>
+        </div>
 
         <h5>Страны</h5>
         <ul style="column-count: 3;">
             <li><a href="/guide/austria">Австрия</a></li>
             <li>Албания</li>
             <li><a href="/guide/andorra">Андорра</a></li>
-            <li><a href="/guide/belarus">Белоруссия</a></li>
+            <li><a href="/guide/belarus">Беларусь</a></li>
             <li>Бельгия</li>
             <li>Болгария</li>
             <li>Босния и Герцеговина</li>
@@ -155,10 +159,10 @@
         <p>Америка — обширный регион между двумя океанами, включающий два материка, Северную и Южную Америку, и массу разновеликих островов, от гигантской Гренландии до крошечной Мартиники.</p>
 
         <div class="row">
-            <div class="col-6">
+            <div class="col-lg-6">
                 <figure class="figure d-block">
                     <div class="video-cover box-shadow">
-                        <img alt="Into The West - North America" src="https://i.vimeocdn.com/video/549938847_1280x720.webp" class="bg-image"/>
+                        <img alt="Into The West - North America" src="https://i.vimeocdn.com/video/549938847_1280x720.jpg" class="bg-image"/>
                         <div class="video-play-icon">
                             <i class="icon-controller-play"></i>
                         </div>
@@ -169,10 +173,10 @@
                     <figcaption class="figure-caption text-right">Into The West - North America<br>© Mike Bishop 2015</figcaption>
                 </figure>
             </div>
-            <div class="col-6">
+            <div class="col-lg-6">
                 <figure class="figure d-block">
                     <div class="video-cover box-shadow">
-                        <img alt="Into The West - North America" src="https://i.vimeocdn.com/video/370864726_1280x720.webp" class="bg-image"/>
+                        <img alt="Into The West - North America" src="https://i.vimeocdn.com/video/370864726_1280x720.jpg" class="bg-image"/>
                         <div class="video-play-icon">
                             <i class="icon-controller-play"></i>
                         </div>
@@ -224,18 +228,20 @@
         <h2>Африка</h2>
         <p>Африка - колыбель человечества. И пусть с тех пор минул не один миллион лет, лоно Африки сегодня столь же жаркое, не менее дикое и лишь на толику более изученное.</p>
 
-        <figure class="figure d-block col-lg-8 offset-lg-2">
-            <div class="video-cover box-shadow">
-                <img alt="Heart of Africa" src="https://i.vimeocdn.com/video/462402180_1280x720.webp" class="bg-image"/>
-                <div class="video-play-icon">
-                    <i class="icon-controller-play"></i>
+        <div class="row">
+            <figure class="figure d-block col-lg-8 offset-lg-2">
+                <div class="video-cover box-shadow">
+                    <img alt="Heart of Africa" src="https://i.vimeocdn.com/video/462402180_1280x720.jpg" class="bg-image"/>
+                    <div class="video-play-icon">
+                        <i class="icon-controller-play"></i>
+                    </div>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/85004906?transparent=0&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
                 </div>
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" data-src="https://player.vimeo.com/video/85004906?transparent=0&autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
-            </div>
-            <figcaption class="figure-caption text-right">Heart of Africa<br>© Michael Sugrue 2014</figcaption>
-        </figure>
+                <figcaption class="figure-caption text-right">Heart of Africa<br>© Michael Sugrue 2014</figcaption>
+            </figure>
+        </div>
 
         <h5>Страны</h5>
         <ul style="column-count: 3;">
